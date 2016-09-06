@@ -103,25 +103,25 @@ tap "homebrew/services"
 brew "ctags"
 brew "git"
 brew "openssl"
-brew "rcm"
-brew "reattach-to-user-namespace"
+# brew "rcm"
+# brew "reattach-to-user-namespace"
 brew "the_silver_searcher"
-brew "tmux"
+# brew "tmux"
 brew "vim"
 brew "zsh"
 
 # Heroku
-brew "heroku-toolbelt"
-brew "parity"
+#brew "heroku-toolbelt"
+#brew "parity"
 
 # GitHub
-brew "hub"
+# brew "hub"
 
 # Image manipulation
 brew "imagemagick"
 
 # Testing
-brew "qt"
+# brew "qt"
 
 # Programming languages
 brew "libyaml" # should come after openssl
